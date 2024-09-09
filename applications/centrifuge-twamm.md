@@ -3,6 +3,7 @@
 - **Team Name:** k/factory (former Centrifuge Development Team)
 - **Payment Address:** Ethereum(USDC) - 0x2B8A956BF807E22d858dc9AD2eFc30cccc3Ea676
 - **Level:** 🐓 3
+- **Status:** [Terminated](https://github.com/w3f/Grants-Program/pull/1813#issuecomment-2237748467)
 
 ## Project Overview :page_facing_up:
 
@@ -334,6 +335,8 @@ We would like to bring to your attention that we recently presented a similar, a
 - **Total Costs:** 75,000 USD
 
 ### Milestone 1 - TWAMM Pallet
+
+We anticipate the project's inception to be in the second quarter of 2024.
 
 - **Estimated duration:** 7.5 weeks (286 hours)
 - **FTE:**  1.5

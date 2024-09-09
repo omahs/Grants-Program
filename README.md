@@ -21,11 +21,9 @@
 - [:moneybag: Referral Program](#moneybag-referral-program)
 - [:bulb: Help](#bulb-help)
   - [Real-time Conversation](#real-time-conversation)
-  - [Office Hours](#office-hours)
-  - [Additional Information](#additional-information)
+  - [Ecosystem Funding Office Hours](#ecosystem-funding-office-hours)
 - [:rocket: Alternative Funding Sources](#rocket-alternative-funding-sources)
-  - [Substrate Builders Program vs Treasury vs Web3 Grants](#substrate-builders-program-vs-treasury-vs-web3-grants)
-  - [Substrate Builders Program](#substrate-builders-program)
+  - [Treasury vs Web3 Grants](#treasury-vs-web3-grants)
   - [Treasury](#treasury)
   - [Hackathons](#hackathons)
   - [Other Grant or Bounty Programs](#other-grant-or-bounty-programs)
@@ -40,7 +38,7 @@ Anyone is welcome to apply for a grant. Projects funded through our programs are
 
 Generally, your project will have better chances to be accepted if:
 
-- It presents a **well-researched** or tested concept, for which ideally you are able to show some prior work.
+- It presents a **well-researched** or tested concept, for which, ideally, you are able to show some prior work.
 - You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
 - Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You will be asked to provide the GitHub profiles of your team members as part of your application, which we will examine for past activity and code quality. Naturally, you can also link to projects on other platforms.
 - Your application is **rich in technical details** and well-defined.
@@ -50,9 +48,9 @@ Additionally, it must fulfill the following requirements:
 
 - All code produced as part of a grant must be **open-sourced**, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT, or Unlicense are also acceptable.
 - We do not award grants for projects that have been the object of a successful token sale.
-- Applications must not mention a specific token. Furthermore, the focus of the application should lie on the software that is being implemented/research being carried out as part of the grant, and less on your project/venture/operation. For the purpose of the application and delivery, think about how others might also benefit from your work.
+- Applications must not mention a specific token. Furthermore, the focus of the application should lie on the software that is being implemented/research being carried out as part of the grant and less on your project/venture/operation. For the purpose of the application and delivery, think about how others might also benefit from your work.
 - As a general rule, teams are asked to finish a grant before applying for another one.
-- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
+- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
 
 In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/w3f/Grants-Program/blob/master/docs/Support%20Docs/milestone-deliverables-guidelines.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product.
 
@@ -74,7 +72,7 @@ If you have a **good concept of the technical challenges** that your idea entail
 
 ### Support
 
-The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. If this sounds like something you would like however, you may also want to apply to Parity's [Substrate Builders Program](https://www.substrate.io/builders-program/), which provides hands-on technical, ecosystem, and strategical long-term support and access to extensive resources. You can find general documentation and more information on Substrate on the [Substrate Developer Hub](https://substrate.dev/), and we encourage you to join the [community](https://substrate.dev/en/community) in order to get help with specific issues or to stay up to date with the most recent developments.
+The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. You can find general documentation and more information on Substrate on the [Substrate Developer Hub](https://substrate.dev/), and we encourage you to join the [community](https://substrate.dev/en/community) in order to get help with specific issues or to stay up to date with the most recent developments.
 
 For questions about the grants program itself, see our [FAQ](docs/faq.md#frequently-asked-questions).
 
@@ -82,22 +80,20 @@ For questions about the grants program itself, see our [FAQ](docs/faq.md#frequen
 
 #### W3F Grants Committee<!-- omit in toc -->
 
-The committee consists of individuals who know the funding priorities of the Polkadot ecosystem, and is responsible for evaluating grant applications and providing feedback on these.
+The committee consists of individuals who know the funding priorities of the Polkadot ecosystem and is responsible for evaluating grant applications and providing feedback on these.
 
 In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
 
 - [Santiago Balaguer](https://github.com/SBalaguer)
 - [Aeron Buchanan](https://github.com/aeronbuchanan)
-- [Gautam Dhameja](https://github.com/gautamdhameja)
 - [David Hawig](https://github.com/Noc2)
-- [Diogo Mendonça](https://github.com/dsm-w3f)
 - [Sebastian Müller](https://github.com/semuelle)
 - [Bill Laboon](https://github.com/laboon)
 - [Keegan Quigley](https://github.com/keeganquigley)
-- [Nikhil Ranjan](https://github.com/nikw3f)
 - [Raul Romanutti](https://github.com/rrtti)
 - [Seraya Takahashi](https://github.com/takahser)
 - [Benjamin Weiß](https://github.com/BenWhiteJam)
+- [Piet Wolff](https://github.com/PieWol) 
 - [Gavin Wood](https://github.com/gavofyork)
 
 #### W3F Grants Evaluators<!-- omit in toc -->
@@ -105,24 +101,22 @@ In cases where a niche expert opinion is desirable, one of the committee members
 Evaluators are individuals able to evaluate the technology delivered as a result of the Grants Program. The committee has the right to add or remove evaluators on the basis of supermajority.
 
 - [David Hawig](https://github.com/Noc2)
-- [Diogo Mendonça](https://github.com/dsm-w3f)
 - [Sebastian Müller](https://github.com/semuelle)
 - [Keegan Quigley](https://github.com/keeganquigley)
-- [Nikhil Ranjan](https://github.com/nikw3f)
 - [Seraya Takahashi](https://github.com/takahser)
+- [Piet Wolff](https://github.com/PieWol) 
 
 #### W3F Operations Team<!-- omit in toc -->
 
 The Operations Team takes care of legal documents, invoicing, and remittances.
 
 - [Melanie Diener](https://github.com/meldien)
-- [Federica Dubbini](https://github.com/fededubbi)
 - [Rouven Pérez](https://github.com/RouvenP)
 
 
 ## :level_slider: Levels
 
-The W3F Grants Program offers different grant levels to help you best, depending on your current stage.
+The W3F Grants Program offers different grant levels to help you best, depending on your current stage. At least 50% of any grant is paid out in vested DOT.
 
 ### :hatching_chick: Level 1 (= InstaGrants)<!-- omit in toc -->
 
@@ -136,7 +130,7 @@ The W3F Grants Program offers different grant levels to help you best, depending
 - **Target:** Small teams/start-ups
 - **Amount:** Up to $30,000
 - **Requirements:** 3 approvals
-- **Benefits:** All of the above + [co-promotion](https://github.com/w3f/Grants-Program/blob/master/docs/Support%20Docs/announcement-guidelines.md), [Grants Program badge](https://github.com/w3f/Grants-Program/blob/master/docs/Support%20Docs/grant-badge-guidelines.md), fast track to [Substrate Builders Program](https://www.substrate.io/builders-program/)
+- **Benefits:** All of the above + [co-promotion](https://github.com/w3f/Grants-Program/blob/master/docs/Support%20Docs/announcement-guidelines.md), [Grants Program badge](https://github.com/w3f/Grants-Program/blob/master/docs/Support%20Docs/grant-badge-guidelines.md)
 
 ### :rooster: Level 3<!-- omit in toc -->
 
@@ -147,7 +141,7 @@ The W3F Grants Program offers different grant levels to help you best, depending
 
 ## :pencil: Process
 
-> **:loudspeaker:** Payments can be made in USDT and USDC on the Polkadot [AssetHub](https://wiki.polkadot.network/docs/learn-assets), Bitcoin, and fiat (USD, EUR, CHF). Please indicate your preference in the application [as outlined in our application template](https://github.com/w3f/Grants-Program/blob/master/applications/application-template.md?plain=1#L7). If you want to apply in **private**, you can do so [:arrow_right: here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform). Note that this is generally a slower process and imposes stricter requirements on applicants.
+> **:loudspeaker:** At least 50% (as defined in your grant agreement) of each milestone payment is made in DOT (linearly vesting over 2 years). The remainder is paid in_either_ USDT or USDC on the Polkadot [AssetHub](https://wiki.polkadot.network/docs/learn-assets) _or_ fiat (USD, EUR, CHF). Please indicate your preference in the application [as outlined in our application template](https://github.com/w3f/Grants-Program/blob/master/applications/application-template.md?plain=1#L7). If you want to apply in **private**, you can do so [:arrow_right: here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform). Note that this is generally a slower process and imposes stricter requirements on applicants.
 
 ### 1. Application
 
@@ -222,7 +216,7 @@ Please note that:
 
 We give away 500 USD to each referral of a successful grant application by _anyone having previously worked on a Web3 Foundation grant_ or _a [Polkadot Ambassador](https://wiki.polkadot.network/docs/ambassadors)_. Web3 Foundation and Parity employees do not qualify for the program, even if they previously worked on a grant.
 
-In order to be eligible for the referral bonus, the application itself must contain the name of the [Polkadot Ambassador](https://wiki.polkadot.network/docs/ambassadors) or the GitHub account of the grantee as well as the payment address for the referral bonus (see the [application template](applications/application-template.md)). Payment is made in Bitcoin or USDT/USDC on Polkadot AssetHub.
+In order to be eligible for the referral bonus, the application itself must contain the name of the [Polkadot Ambassador](https://wiki.polkadot.network/docs/ambassadors) or the GitHub account of the grantee as well as the payment address for the referral bonus (see the [application template](applications/application-template.md)). Payment is made in USDT/USDC on Polkadot AssetHub after delivery and approval of the first milestone.
 
 ## :bulb: Help
 
@@ -238,40 +232,30 @@ We also have Matrix/Element channels for real-time discussions on Web3 and Polka
 - [Polkadot Space](https://matrix.to/#/#polkadot:web3.foundation)
 - [Kusama Space](https://matrix.to/#/#kusama:web3.foundation)
 
-### Office Hours
+### Ecosystem Funding Office Hours
 
-Web3 Foundation Grants Office Hours are a chance to ask the grants team questions regarding a specific (potential) grant application. It offers
+Ecosystem Funding Office Hours are a chance to ask the W3F Ecosystem Funding team questions regarding a specific project or (potential) grant application. It offers
 
-- general guidance regarding the grants program,
+- general guidance regarding the various grants programs and prizes,
 - some quick initial feedback and
 - help how to navigate the ecosystem.
 
 Apply for Office Hours if you
 
-- need feedback before submitting an application,
-- want to find out what kind of support there might be available or
-- need help finding the resources you need.
+- want to find out what kind of support there might be available for your needs,
+- need feedback before submitting an application or
+- look for help finding other resources you might need.
 
-It is **not** a chance to pitch your project, especially since only a small subset of the committee will participate in the call. To apply, please fill out the [Office Hours :alarm_clock: form](https://forms.gle/54xkiqU37WwdN9UR6). Be as specific as possible, so we can help you more quickly. We will get back to you with follow-up questions or a link for booking a timeslot.
-
-### Additional Information
-
-<div align="center">
-
-| <img src="static/img/Web.svg?s=50" width="50"></img> | <img src="static/img/Twitter.svg?s=50" width="50"></img> | <img src="static/img/Learn.svg?s=50" width="50"></img> | <img src="static/img/Wiki.svg?s=50" width="50"></img> | <img src="static/img/Youtube.svg?s=50" width="50"></img> |
-| :-: | :-: | :-: | :-: | :-: |
-| [W3F Website](https://web3.foundation) | [W3F Twitter](https://twitter.com/web3foundation) | [W3F Medium](https://medium.com/web3foundation) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [W3F YouTube](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
-
-</div>
+It is **not** a chance to _pitch_ your project, especially since only the various programs and prizes have different evaluation criteria and decision makers and only a small subset of the Grants team will participate in the call. To apply, please fill out the [Office Hours :alarm_clock: form](https://forms.gle/54xkiqU37WwdN9UR6). Be as specific as possible, so we can help you more quickly. We will get back to you with follow-up questions or a link for booking a timeslot.
 
 
 ## :rocket: Alternative Funding Sources
 
 We encourage you to explore the alternative funding options listed below. Please note, however, that you should not seek to fund the **same scope of work** from multiple sources and that any team found doing so will have its Web3 Foundation support terminated.
 
-### Substrate Builders Program vs Treasury vs Web3 Grants
+### Treasury vs Web3 Grants
 
-The following flowchart gives a rough, oversimplified view of how the W3F Grants Program, the Polkadot and Kusama treasuries and Parity's Substrate Builders Program relate, and where your project might fit best. Note that this diagram does not include any of the [parachain-specific grants/builders programs](#other-grant-programs) other organisations are offering.  
+The following flowchart gives a rough, oversimplified view of how the W3F Grants Program, the Polkadot and Kusama treasuries relate, and where your project might fit best. Note that this diagram does not include any of the [parachain-specific grants/builders programs](#other-grant-programs) other organisations are offering.  
 
 ```mermaid
 flowchart LR
@@ -282,21 +266,14 @@ flowchart LR
     B -->|Existing POC| E[Goal of the Application]
     B -->|No POC| F[Grants Program]
     E -->|Funding| G[Treasury or Grants Program]
-    E -->|Support| H[Substrate Builders Program]
     style C stroke:#e83e8c,stroke-width:2px,stroke-dasharray: 5 5
     style D stroke:#e83e8c,stroke-width:2px,stroke-dasharray: 5 5
     style F stroke:#e83e8c,stroke-width:2px,stroke-dasharray: 5 5
-    style H stroke:#e83e8c,stroke-width:2px,stroke-dasharray: 5 5
     
     click C "https://github.com/w3f/Grants-Program#pencil-process" "You are already in the right place :)"
     click D "https://polkadot.network/treasury" "https://polkadot.network/treasury/" _blank
     click F "https://github.com/w3f/Grants-Program#pencil-process" "You are already in the right place :)"
-    click H "https://www.substrate.io/builders-program/" "https://www.substrate.io/builders-program/" _blank
 ```
-
-### Substrate Builders Program
-
-The [Substrate Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) directly supports you by connecting you with Parity’s extensive resources.
 
 ### Treasury
 
@@ -319,19 +296,14 @@ Below is a list of other grant and bounty programs in the Polkadot/Substrate eco
 
 - [Acala Grants Program](https://acala.network/ecosystem-program)
 - [Aleph Zero Funding Program](https://alephzero.org/ecosystem-funding-program)
-- [Astar / Shiden Network Builders Program](https://github.com/PlasmNetwork/Builders-Program)
-- [Crust Grants Program](https://github.com/crustio/Crust-Grants-Program)
+- [Avail Uncharted Grants](https://github.com/availproject/avail-uncharted/blob/main/grants/grants.md) 
 - [Darwinia Grants Program](https://github.com/darwinia-network/collaboration/blob/master/grant/README.md#grant-program)
-- [Edgeware Grants and Bounties](https://gov.edgewa.re/discussion/1132-edgeware-proposal-process-and-template)
+- [Decentralized Futures Program](https://futures.web3.foundation/) 
 - [HydraDX Grants and Bounties](https://docs.hydradx.io/spending_fw/)
 - [ink!ubator](https://use.ink/ubator/)
-- [Interlay Labs Grants Program](https://github.com/interlay/Grants-Program)
-- [KodaDot Ecosystem Grants](https://github.com/kodadot/grants)
 - [Moonbeam Grants Program](https://moonbeam.foundation/grants/)
 - [OAK’s Developer Grants](https://oak.tech/community/grants/)
 - [peaq Ecosystem Grant Program](https://www.peaq.network/grant-program)
-- [Phala Builders Program](https://wiki.phala.network/en-us/build/general/builders-program/)
-- [Picasso / Composable Grants Program](https://docs.composable.finance/ecosystem/composable-grants/)
 - [Polkadot Pioneers Prize](https://pioneersprize.polkadot.network/)
 - [SubQuery Grants Programme](https://subquery.network/grants)
 - [Pendulum / Amplitude Grant Programs](https://pendulumchain.org/ecosystem-grant)

@@ -1,11 +1,11 @@
-# Name of your Research Project1
+# Name of your Research Project
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g. `![](image.png)` instead of `<img>`).
 >
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
 
 - **Team Name:** Legal name of your team (e.g. JsonCorp)
-- **Payment Address:** In the case of fiat payment, please share your bank account privately with grants@web3.foundation via your contact email (see below) and enter the date when you shared the information with us (e.g. Fiat 24.12.1971, 11:59) here. Otherwise, provide the Polkadot ( for USDC & USDT) or Bitcoin payment address. Please also specify the currency. (e.g. 0x8920... (USDC))
+- **Payment Address:** For USDC/USDT and DOT payments, please provide the Polkadot AssetHub address and the currency (e.g. 15oF4... (USDC)). In the case of fiat payment, please _also_ share your bank account privately with grants@web3.foundation via your contact email (see below) and enter the date when you shared the information with us (e.g. Fiat 24.12.1971, 11:59) here. 
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
 
 > :exclamation: *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -82,23 +82,23 @@ If anyone on your team has applied for a grant at the Web3 Foundation previously
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/{your_organisation}/{project_1}
+- https://github.com/{your_organisation}/{project_2}
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/{team_member_1}
+- https://github.com/{team_member_2}
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/{person_1}
+- https://www.linkedin.com/{person_2}
 
 ### Google Scholar Profiles (Or other research indexer profile, ex. Researchgate)
 
-- https://scholar.google.com/citations?user=<person_1>
-- https://scholar.google.com/citations?user=<person_2>
+- https://scholar.google.com/citations?user={person_1}
+- https://scholar.google.com/citations?user={person_2}
 
 ## Development Status :open_book:
 
@@ -121,7 +121,8 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 
 - **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
 - **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested.
+- **DOT %:** Percentage of Total Costs to be paid in (vested) DOT (≥ 50%)
 
 ### Milestone 1 Example — Literature Review and Data Collection
 
@@ -164,7 +165,7 @@ Please include here
 You can find more information about the program [here](../README.md#moneybag-referral-program).
 
 - **Referrer:** Name of the Polkadot Ambassador or GitHub account of the Web3 Foundation grantee
-- **Payment Address:** BTC, Ethereum (USDC/DAI) or Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
+- **Payment Address:** Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 15oF4... (USDC))
 
 ## Additional Information :heavy_plus_sign:
 

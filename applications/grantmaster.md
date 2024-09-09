@@ -1,12 +1,12 @@
 # GrantMaster: Web3 Grants Management Application
 
 - **Team Name:** Zaniyar Jahany
-- **Payment Address:** 0xFCFDB7351Da159B8f53217be2a671dDa943735fc (DAI)
+- **Payment Address:** 1YXxtnTF119WBAnZbKT7ecyQHLNXZhaaqho1Xu99HTG2LYh (ASSETHUB USDT)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1
 
 ## Project Overview :page_facing_up:
 
-This application is in response to the RFP [Grant Management Web Application](https://github.com/w3f/Grants-Program/blob/master/docs/RFPs/Open/grant_management_webapp.md).
+This application is in response to the RFP [Grant Management Web Application](https://github.com/w3f/Grants-Program/blob/master/docs/RFPs/grant_management_webapp.md).
 
 ### Overview
 
@@ -146,7 +146,7 @@ Zaniyar Jahany is a Senior science associate at ZHAW (university of applied scie
 
 ## Development Status :open_book:
 
-This application is in reply to the RFP [Grant Management Web Application](https://github.com/w3f/Grants-Program/blob/master/docs/RFPs/Open/grant_management_webapp.md).
+This application is in reply to the RFP [Grant Management Web Application](https://github.com/w3f/Grants-Program/blob/master/docs/RFPs/grant_management_webapp.md).
 
 
 ### Wireframes
@@ -169,13 +169,13 @@ To get a feeling how the page will look like, I prepared this Hi Fi wireframe. K
 
 ### Overview
 
-- **Total Estimated Duration:** 2 months
+- **Total Estimated Duration:** 5 months
 - **Full-Time Equivalent (FTE):**  0.6 FTE
 - **Total Costs:** 10,000 USD
 
 ### Milestone 1 — Development of API and Grant Frontend
 
-- **Estimated Duration:** 2 months
+- **Estimated Duration:** 5 months
 - **FTE:**  0.6
 - **Costs:** 10,000 USD
 

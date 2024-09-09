@@ -3,6 +3,7 @@
 - **Team Name:** Off Narrative Labs 
 - **Payment Address:** 0x5a335908df9D2C47304338E3b744579Ed7C6a64d (DAI)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 3 :chicken:
+- **Status:** [Terminated](https://github.com/w3f/Grants-Program/pull/1932#issuecomment-2295441371)
 
 ## Project Overview :page_facing_up:
 
@@ -164,7 +165,7 @@ We hope that the simplicity of the UTXO model will allow performance increases, 
 | **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can spin up the example node and transfer tokens |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | **0d.** | Docker | We will provide a Dockerfile that can be used to test all the functionality delivered with this milestone. |
-| 1.  | Benchmark Report | Full report of throughput for {Transfer, Remark} transactions in {FRAME, Tuxedo} runtimes operated in {Standalone, Parachain} contexts. |
+| 1.  | Benchmark Report | Full report of throughput for \{Transfer, Remark} transactions in \{FRAME, Tuxedo} runtimes operated in \{Standalone, Parachain} contexts. |
 
 
 ## Future Plans

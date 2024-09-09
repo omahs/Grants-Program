@@ -13,22 +13,65 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title} </h1> 
+        {/* <h1 className="hero__title">{siteConfig.title} </h1>  */}
+        <img src="img/web3 foundation grants_black.jpg"></img>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="./docs/Process/how-to-apply">
-            Apply
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="./docs/rfps"
-            style={{
-              marginLeft: "20px"
-            }}>
-            Browse RFPs
-          </Link>
+        <div className={styles.buttons}            
+          style={{
+            display: "block"
+          }}
+          >
+          <div>
+            <Link
+              className="button button--secondary button--lg"
+              to="./docs/Process/how-to-apply"
+              style={{
+                marginLeft: "10px",
+                marginBottom: "5px",
+                backgroundColor: "rgb(0, 0, 0)",
+                color: "rgb(250, 250, 250)"
+              }}>
+              Apply
+            </Link>
+            <Link
+              className="button button--secondary button--lg"
+              to="./docs/office-hours"
+              style={{
+                marginLeft: "10px",
+                marginBottom: "5px"
+              }}>
+              Office Hours
+            </Link>
+            <Link
+              className="button button--secondary button--lg"
+              to="./docs/rfps"
+              style={{
+                marginLeft: "10px",
+                marginBottom: "5px",
+              }}>
+              Browse RFPs
+            </Link>
+            <Link
+              className="button button--secondary button--lg"
+              to="https://futures.web3.foundation"
+              style={{
+                marginLeft: "10px",
+                marginBottom: "5px",
+                backgroundColor: "rgb(250, 250, 250)"
+              }}>
+              Decentralized Futures ↗
+            </Link>
+            <Link
+              className="button button--secondary button--lg"
+              to="https://jam.web3.foundation"
+              style={{
+                marginLeft: "10px",
+                marginBottom: "5px",
+                backgroundColor: "rgb(250, 250, 250)"
+              }}>
+              JAM Prize ↗
+            </Link>
+          </div>
         </div>
       </div>
     </header>
