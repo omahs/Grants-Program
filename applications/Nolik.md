@@ -12,7 +12,7 @@ Nolik is a protocol for delivering digital content for web 3.0.
 It allows developers to create applications for formal communication that connect people without any form of censorship or third-party control.
 The protocol design is based on the ServiceLess approach, meaning that no services from third parties are needed for users to communicate.
 
-We achieve that by using combination of blockchian and IPFS technologies.
+We achieve that by using a combination of blockchain and IPFS technologies.
 To build a blockchain engine we are going to use Substrate framework with a custom runtime.
 Blockchain logic will allow users to create programmable messages rules so they could control on a cryptographic level how they are going to receive messages.
 For example, users will be able to create a white list (or black list) of senders which will protect them from spam or irrelevant conversations.
@@ -279,7 +279,7 @@ H(H(pk), N)
 ```
 
 Where "H" is a blake2 hash function, "pk" is the recipient's public key and N is a one-time-use nonce.
-The recipient knows his public keys, and that allows to identify  related messages among others.
+The recipient knows his public keys, and that allows to identify related messages among others.
 The downside of this approach is that once one knows the recipient's public key he will be able to track the account activity.
 To fix this the one-time-use nonce can be replaced with private nonce, but in this case, the recipient will have to decrypt every message in the blockchain.
 
@@ -402,7 +402,7 @@ Worked as a researcher in blockchain tech to find a product-market-fit for this 
 For the last five years, I've been learning how to make successful products.
 My last two MVPs took less than 48 hours to build and both of them generate revenue.
 One of them is growing.
-Right now I am learning [Game Thinking Mechanicks](http://gamethinking.io) to make better products.
+Right now I am learning [Game Thinking Mechanics](http://gamethinking.io) to make better products.
 
 Previously worked as a Director of blockchain products and strategy at Latoken.
 I've been working with amazingly talented people on product management and the development of both decentralized and centralized crypto exchanges.
